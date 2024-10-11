@@ -8,7 +8,7 @@ Thiago Yabuki de Araujo - a24207@alunos.ipca.pt
 
 
 ## Descrição do Trabalho
-Conversão de CSV para XML, XML para XLS e CSV para Excel. Filtragem de campos e linhas de modo a ser enviado um ficheiro simples com os beneficiários cujo número de pedidos são elevados.
+Conversão de CSV para XML, XML para XLS e CSV para Excel. Filtragem de campos e linhas de modo a ser enviado um ficheiro simples com os beneficiários cujo número de itens solicitados são elevados.
 
 ## Instruções
 Para executar o projeto, é necessário abrir o ficheiro "" e executá-lo
