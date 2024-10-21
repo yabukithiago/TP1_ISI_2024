@@ -19,13 +19,16 @@ Para executar o projeto, é necessário abrir o ficheiro "START_JOB" e executá-
 ## Dados de saída
 - XML_Generated.xml
 - XLS_Generated.xls
-- XLS_Generated_Backup.xls
-- XLS_Generated_Edit.xls
-
+- XLS_Generated_.xls
+- XLS_Generated_Delivered.xls
+- XLS_Generated_MinorQuantity.xls
+- XLS_Generated_Pending.xls
+- XLS_Generated_Shipped.xls
+  
 ## Transformações
 - CSV to XML
-- XML to XLS (Filtro de linhas)
-- XLS to XLS (Filtro de campos)
+- XML to XLS
+- XLS to XLS
 
 ## Job
 - START_JOB.kjb
